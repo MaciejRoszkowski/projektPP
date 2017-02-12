@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\maciek\desktop\projekcik\projekcik\source.cpp(83): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Projekcik.vcxproj -> C:\Users\Maciek\Desktop\Projekcik\Debug\Projekcik.exe
+  Projekcik.vcxproj -> C:\Users\Maciek\Desktop\Projekcik\Debug\Projekcik.pdb (Full PDB)
